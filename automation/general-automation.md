@@ -10,3 +10,4 @@
 - [ ] Breaking the QA Bottleneck: A Serverless Approach to Automation [[Link](https://medium.com/@jatindertoor/breaking-the-qa-bottleneck-a-serverless-approach-to-automation-159e75327023)]
 - [ ] Top Automation Anti-Patterns to Avoid (With Real Examples) [[Link](https://qalogy.com/top-automation-anti-patterns-to-avoid/)]
 - [ ] AI in Test Automation: What Actually Makes Sense (and What Doesn’t) [[Link](https://medium.com/@vaibhavc121/ai-in-test-automation-what-actually-makes-sense-and-what-doesnt-e571e7ed13c1)]
+- [ ] Implementing Semantic Validation for QA Fixtures with LLMs [[Link](https://www.thegreenreport.blog/articles/implementing-semantic-validation-for-qa-fixtures-with-llms/implementing-semantic-validation-for-qa-fixtures-with-llms.html)]
