@@ -6,3 +6,4 @@
 - [ ] AI and Testing: A Testing Example [[Link](https://testerstories.com/2026/01/ai-and-testing-a-testing-example/)]
 - [ ] Five practical ways to use AI as a partner in Quality Engineering [[Link](https://www.ministryoftesting.com/articles/five-practical-ways-to-use-ai-as-a-partner-in-quality-engineering)]
 - [ ] I stopped writing E2E tests manually. I manage an AI agent instead [[Link](https://engineering.instawork.com/i-stopped-writing-e2e-tests-manually-i-manage-an-ai-agent-instead-e6acb44019e2)]
+- [ ] AI did not break testing [[Link](https://kato-coaching.com/ai-did-not-break-testing/)]
