@@ -11,3 +11,5 @@
 - [ ] Authentication in Playwright: You Might Not Need Project Dependencies [[Link](https://dev.to/vitalets/authentication-in-playwright-you-might-not-need-project-dependencies-2e02)]
 - [ ] When Claude Met Playwright: My First Experiments in AI-Powered Testing [[Link](https://sabaramalingam.medium.com/when-claude-met-playwright-my-first-experiments-in-ai-powered-testing-abc88198c489)]
 - [ ] Sharding in Playwright: Speeding Up Your Test Suites and CI Pipelines [[Link](https://aykutdenizci.medium.com/sharding-in-playwright-speeding-up-your-test-suites-and-ci-pipelines-906dc1a6cf39)]
+- [ ] 2FA testing with Playwright and Mailosaur [[Link](https://filiphric.com/2fa-testing-with-playwright-and-mailosaur)]
+- [ ] AI Powered Test Automation Part 4: Complete Guide to Playwright Agents: Planner, Generator, and Healer for Web Test Automation [[Link](https://medium.com/@ismailsobhy/ai-powered-test-automation-part-4-complete-guide-to-playwright-agents-planner-generator-healer-d418166afe34)]
