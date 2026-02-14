@@ -14,3 +14,4 @@
 - [ ] 2FA testing with Playwright and Mailosaur [[Link](https://filiphric.com/2fa-testing-with-playwright-and-mailosaur)]
 - [ ] AI Powered Test Automation Part 4: Complete Guide to Playwright Agents: Planner, Generator, and Healer for Web Test Automation [[Link](https://medium.com/@ismailsobhy/ai-powered-test-automation-part-4-complete-guide-to-playwright-agents-planner-generator-healer-d418166afe34)]
 - [ ] Understanding Playwright Agents [[Link](https://www.awesome-testing.com/2025/10/playwright-agents)]
+- [ ] AI + Chrome DevTools MCP: Trace, Analyse, Fix Performance [[Link](https://www.awesome-testing.com/2025/09/chrome-dev-tools-mcp)]
