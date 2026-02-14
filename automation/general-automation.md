@@ -13,3 +13,4 @@
 - [ ] Implementing Semantic Validation for QA Fixtures with LLMs [[Link](https://www.thegreenreport.blog/articles/implementing-semantic-validation-for-qa-fixtures-with-llms/implementing-semantic-validation-for-qa-fixtures-with-llms.html)]
 - [ ] How I Built My Own QA Agent With Atlassian Rovo [[Link](https://medium.com/@anna.kumova/how-i-built-my-own-qa-ai-agent-with-rovo-d7aabc7a8b9d)]
 - [ ] Beyond the Happy Path: Synthetic Test Data in Java with Datafaker and Instancio [[Link](https://vicky-ivanova.medium.com/beyond-the-happy-path-synthetic-test-data-in-java-with-datafaker-and-instancio-76096ea05bfe)]
+- [ ] AI for QA pipeline: From a user story to a verified test [[Link](https://generativeai.pub/ai-for-qa-from-user-story-to-verified-test-without-a-human-touchwhat-0b2f84973c75)]
