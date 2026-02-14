@@ -17,3 +17,4 @@
 - [ ] It’s not as bad as you think: Using scorecards in AI testing [[Link](https://testingil.com/2025/12/using-scorecards-in-ai-testing.html)]
 - [ ] Why aren’t we Talking about Shift Right in Quality Engineering? [[Link](https://cakehurstryan.com/2025/12/05/why-arent-we-talking-about-shift-right-in-quality-engineering/)]
 - [ ] AI and QE: Patterns and Anti-Patterns [[Link](https://medium.com/@joel.wilson117/ai-and-qe-patterns-and-anti-patterns-5bf5ec500822)]
+- [ ] The New QA Mindset: Testing AI and LLMs [[Link](https://qalogy.com/the-new-qa-mindset-testing-ai-and-llms)]
