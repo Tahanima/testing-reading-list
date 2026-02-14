@@ -16,3 +16,4 @@
 - [ ] AI in QA: The Art of the Prompt and the New Strategic Mindset [[Link](https://medium.com/@hamsterhany/ai-in-qa-the-art-of-the-prompt-and-the-new-strategic-mindset-3f74ab121b14)]
 - [ ] It’s not as bad as you think: Using scorecards in AI testing [[Link](https://testingil.com/2025/12/using-scorecards-in-ai-testing.html)]
 - [ ] Why aren’t we Talking about Shift Right in Quality Engineering? [[Link](https://cakehurstryan.com/2025/12/05/why-arent-we-talking-about-shift-right-in-quality-engineering/)]
+- [ ] AI and QE: Patterns and Anti-Patterns [[Link](https://medium.com/@joel.wilson117/ai-and-qe-patterns-and-anti-patterns-5bf5ec500822)]
