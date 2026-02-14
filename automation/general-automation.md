@@ -5,3 +5,4 @@
 - [ ] Run. Learn. Code. — AI That Writes Your Test [[Link](https://medium.com/insiderengineering/run-learn-code-ai-that-writes-your-test-1fdc47bb4d12)]
 - [ ] The AI Efficiency Trap: Why I Built a Tool to Tell Cursor What to Test [[Link](https://medium.com/@noah.goodrich/the-ai-efficiency-trap-why-i-built-a-tool-to-tell-cursor-what-to-test-4fecb95da925)]
 - [ ] Test Automation Design Patterns [[Link](https://pargevghazaryan.medium.com/test-automation-design-patterns-5a4b5447be38)]
+- [ ] The fundamentals of test automation revisited [[Link](https://www.ontestautomation.com/the-fundamentals-of-test-automation-revisited/)]
