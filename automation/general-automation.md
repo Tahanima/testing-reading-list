@@ -8,3 +8,4 @@
 - [ ] The fundamentals of test automation revisited [[Link](https://www.ontestautomation.com/the-fundamentals-of-test-automation-revisited/)]
 - [ ] Testability vs. Automatability: Why Most Automation Efforts Fail Before They Begin [[Link](https://medium.com/ai-in-quality-assurance/testability-vs-automatability-why-most-automation-efforts-fail-before-they-begin-f994a38e4515)]
 - [ ] Breaking the QA Bottleneck: A Serverless Approach to Automation [[Link](https://medium.com/@jatindertoor/breaking-the-qa-bottleneck-a-serverless-approach-to-automation-159e75327023)]
+- [ ] Top Automation Anti-Patterns to Avoid (With Real Examples) [[Link](https://qalogy.com/top-automation-anti-patterns-to-avoid/)]
