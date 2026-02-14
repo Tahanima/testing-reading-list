@@ -9,3 +9,4 @@
 - [ ] A Simple Way to Improve Test Automation Using MCP Servers [[Link](https://codestax.medium.com/a-simple-way-to-improve-test-automation-using-mcp-servers-7e16bb23165f)]
 - [ ] How Playwright Test Agents Are Changing the Game in E2E Automation [[Link](https://medium.com/@dneprokos/how-playwright-test-agents-are-changing-the-game-in-e2e-automation-5827e19574ae)]
 - [ ] Authentication in Playwright: You Might Not Need Project Dependencies [[Link](https://dev.to/vitalets/authentication-in-playwright-you-might-not-need-project-dependencies-2e02)]
+- [ ] When Claude Met Playwright: My First Experiments in AI-Powered Testing [[Link](https://sabaramalingam.medium.com/when-claude-met-playwright-my-first-experiments-in-ai-powered-testing-abc88198c489)]
