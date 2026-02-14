@@ -8,3 +8,4 @@
 - [ ] I stopped writing E2E tests manually. I manage an AI agent instead [[Link](https://engineering.instawork.com/i-stopped-writing-e2e-tests-manually-i-manage-an-ai-agent-instead-e6acb44019e2)]
 - [ ] AI did not break testing [[Link](https://kato-coaching.com/ai-did-not-break-testing/)]
 - [ ] Automation Is Not Quality, And Never Was [[Link](https://medium.com/qualitynexus/automation-is-not-quality-and-never-was-4ea016eddad1)]
+- [ ] Back to the basics: Rethinking how we use AI in testing [[Link](https://www.ministryoftesting.com/articles/back-to-the-basics-rethinking-how-we-use-ai-in-testing)]
