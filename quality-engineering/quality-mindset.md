@@ -10,3 +10,4 @@
 - [ ] Automation Is Not Quality, And Never Was [[Link](https://medium.com/qualitynexus/automation-is-not-quality-and-never-was-4ea016eddad1)]
 - [ ] Back to the basics: Rethinking how we use AI in testing [[Link](https://www.ministryoftesting.com/articles/back-to-the-basics-rethinking-how-we-use-ai-in-testing)]
 - [ ] How to Train Your QA Team to Embed AI into Daily Work [[Link](https://medium.com/@marinacruzjordao/how-to-train-your-qa-team-to-embed-ai-into-daily-work-f54e4f0cba47)]
+- [ ] Test Auto-healing Is A Red Flag [[Link](https://glebbahmutov.com/blog/test-autohealing-is-a-red-flag/)]
