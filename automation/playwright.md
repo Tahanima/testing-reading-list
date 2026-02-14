@@ -6,3 +6,4 @@
 - [ ] Building a Custom API Assertion Library on Top of Playwright [[Link](https://medium.com/@gunashekarr11/building-a-custom-api-assertion-library-on-top-of-playwright-a795cb1de775)]
 - [ ] How to Build a Full API Automation Framework Inside Playwright (Enterprise-Level Design) [[Link](https://medium.com/@gunashekarr11/how-to-build-a-full-api-automation-framework-inside-playwright-enterprise-level-design-8767f7a05abd)]
 - [ ] How I automated the annoying part of my job with Goose and Playwright MCP [[Link](https://filiphric.com/how-i-automated-the-annoying-part-of-my-job-with-goose-and-playwright-mcp)]
+- [ ] A Simple Way to Improve Test Automation Using MCP Servers [[Link](https://codestax.medium.com/a-simple-way-to-improve-test-automation-using-mcp-servers-7e16bb23165f)]
