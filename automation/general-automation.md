@@ -11,3 +11,4 @@
 - [ ] Top Automation Anti-Patterns to Avoid (With Real Examples) [[Link](https://qalogy.com/top-automation-anti-patterns-to-avoid/)]
 - [ ] AI in Test Automation: What Actually Makes Sense (and What Doesn’t) [[Link](https://medium.com/@vaibhavc121/ai-in-test-automation-what-actually-makes-sense-and-what-doesnt-e571e7ed13c1)]
 - [ ] Implementing Semantic Validation for QA Fixtures with LLMs [[Link](https://www.thegreenreport.blog/articles/implementing-semantic-validation-for-qa-fixtures-with-llms/implementing-semantic-validation-for-qa-fixtures-with-llms.html)]
+- [ ] How I Built My Own QA Agent With Atlassian Rovo [[Link](https://medium.com/@anna.kumova/how-i-built-my-own-qa-ai-agent-with-rovo-d7aabc7a8b9d)]
