@@ -7,3 +7,4 @@
 - [ ] Test Automation Design Patterns [[Link](https://pargevghazaryan.medium.com/test-automation-design-patterns-5a4b5447be38)]
 - [ ] The fundamentals of test automation revisited [[Link](https://www.ontestautomation.com/the-fundamentals-of-test-automation-revisited/)]
 - [ ] Testability vs. Automatability: Why Most Automation Efforts Fail Before They Begin [[Link](https://medium.com/ai-in-quality-assurance/testability-vs-automatability-why-most-automation-efforts-fail-before-they-begin-f994a38e4515)]
+- [ ] Breaking the QA Bottleneck: A Serverless Approach to Automation [[Link](https://medium.com/@jatindertoor/breaking-the-qa-bottleneck-a-serverless-approach-to-automation-159e75327023)]
