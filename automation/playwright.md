@@ -13,3 +13,4 @@
 - [ ] Sharding in Playwright: Speeding Up Your Test Suites and CI Pipelines [[Link](https://aykutdenizci.medium.com/sharding-in-playwright-speeding-up-your-test-suites-and-ci-pipelines-906dc1a6cf39)]
 - [ ] 2FA testing with Playwright and Mailosaur [[Link](https://filiphric.com/2fa-testing-with-playwright-and-mailosaur)]
 - [ ] AI Powered Test Automation Part 4: Complete Guide to Playwright Agents: Planner, Generator, and Healer for Web Test Automation [[Link](https://medium.com/@ismailsobhy/ai-powered-test-automation-part-4-complete-guide-to-playwright-agents-planner-generator-healer-d418166afe34)]
+- [ ] Understanding Playwright Agents [[Link](https://www.awesome-testing.com/2025/10/playwright-agents)]
