@@ -15,3 +15,4 @@
 - [ ] Stop Apologizing for Flaky Tests [[Link](https://testingil.com/2025/12/stop-apologizing-for-flaky-tests.html)]
 - [ ] AI in QA: The Art of the Prompt and the New Strategic Mindset [[Link](https://medium.com/@hamsterhany/ai-in-qa-the-art-of-the-prompt-and-the-new-strategic-mindset-3f74ab121b14)]
 - [ ] It’s not as bad as you think: Using scorecards in AI testing [[Link](https://testingil.com/2025/12/using-scorecards-in-ai-testing.html)]
+- [ ] Why aren’t we Talking about Shift Right in Quality Engineering? [[Link](https://cakehurstryan.com/2025/12/05/why-arent-we-talking-about-shift-right-in-quality-engineering/)]
