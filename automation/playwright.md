@@ -18,6 +18,7 @@
 - [ ] Step-by-Step End-to-End Automation Using Microsoft Playwright CLI [[Link](https://kailash-pathak.medium.com/step-by-step-end-to-end-automation-using-microsoft-playwright-cli-85425c8b4e90)]
 - [ ] Advanced Playwright Authentication: A Multi-Role Fixture for Scalable E2E Testing [[Link](https://medium.com/@faizan4199/advanced-playwright-authentication-a-multi-role-fixture-for-scalable-e2e-testing-9ce89af14223)]
 - [ ] Deep Dive into Playwright CLI: Token Efficient Browser Automation [[Link](https://testdino.com/blog/playwright-cli/)]
+- [ ] Building StageMask: A Visual Approach to Masking Dynamic Content in Playwright Tests [[Link](https://www.thegreenreport.blog/articles/building-stagemask-a-visual-approach-to-masking-dynamic-content-in-playwright-tests/building-stagemask-a-visual-approach-to-masking-dynamic-content-in-playwright-tests.html)]
 
 ## Read
 - [x] Building Scalable Tests with Playwright Fixtures and Page Object Model [[Link](https://kailash-pathak.medium.com/building-scalable-playwright-tests-with-fixtures-and-page-object-model-f505504dde9a)]
