@@ -14,3 +14,7 @@
 - [ ] How I Built My Own QA Agent With Atlassian Rovo [[Link](https://medium.com/@anna.kumova/how-i-built-my-own-qa-ai-agent-with-rovo-d7aabc7a8b9d)]
 - [ ] Beyond the Happy Path: Synthetic Test Data in Java with Datafaker and Instancio [[Link](https://vicky-ivanova.medium.com/beyond-the-happy-path-synthetic-test-data-in-java-with-datafaker-and-instancio-76096ea05bfe)]
 - [ ] AI for QA pipeline: From a user story to a verified test [[Link](https://generativeai.pub/ai-for-qa-from-user-story-to-verified-test-without-a-human-touchwhat-0b2f84973c75)]
+- [ ] Automation Testing, The Hidden Cost of `data-testid` & the Business Impact [[Link](https://medium.com/@vivekmunde/automation-testing-the-hidden-cost-of-data-testid-the-business-impact-d82dd16b8d36)]
+- [ ] Page Object Model Is Dead : Here’s What Replaced It [[Link](https://scrolltest.medium.com/page-object-model-is-dead-heres-what-replaced-it-ab4956381dbe)]
+- [ ] n8n for QA: Automate the Boring Stuff You Keep Doing Manually [[Link](https://www.linkedin.com/pulse/n8n-qa-automate-boring-stuff-you-keep-doing-manually-smetanskyi-badef/)]
+- [ ] JavaScript Web Test Automation Framework Rankings in JavaScript Rising Stars 2025 [[Link](https://agileway.substack.com/p/javascript-web-test-automation-framework-c7c)]
