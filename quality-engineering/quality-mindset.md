@@ -17,6 +17,7 @@
 - [ ] AI and QE: Patterns and Anti-Patterns [[Link](https://medium.com/@joel.wilson117/ai-and-qe-patterns-and-anti-patterns-5bf5ec500822)]
 - [ ] The New QA Mindset: Testing AI and LLMs [[Link](https://qalogy.com/the-new-qa-mindset-testing-ai-and-llms)]
 - [ ] AI Is Quietly Rewriting the Career Map for QA Engineers [[Link](https://ryancraventech.substack.com/p/ai-is-quietly-rewriting-the-career)]
+- [ ] Everyone is NOT Responsible for Quality [[Link](https://www.satisfice.com/blog/archives/487632)]
 
 ## Read
 - [x] I stopped writing E2E tests manually. I manage an AI agent instead [[Link](https://engineering.instawork.com/i-stopped-writing-e2e-tests-manually-i-manage-an-ai-agent-instead-e6acb44019e2)]
