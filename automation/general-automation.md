@@ -18,3 +18,5 @@
 - [ ] Page Object Model Is Dead : Here’s What Replaced It [[Link](https://scrolltest.medium.com/page-object-model-is-dead-heres-what-replaced-it-ab4956381dbe)]
 - [ ] n8n for QA: Automate the Boring Stuff You Keep Doing Manually [[Link](https://www.linkedin.com/pulse/n8n-qa-automate-boring-stuff-you-keep-doing-manually-smetanskyi-badef/)]
 - [ ] JavaScript Web Test Automation Framework Rankings in JavaScript Rising Stars 2025 [[Link](https://agileway.substack.com/p/javascript-web-test-automation-framework-c7c)]
+- [ ] AI in Testing #6: Giving AI Eyes and Hands — Which Browser MCP Actually Works [[Link](https://medium.com/@cheparsky/ai-in-testing-6-giving-ai-eyes-and-hands-which-browser-mcp-actually-works-039de2b21ea2)]
+- [ ] What AI Does in My QA & Automation Workflow [[Link](https://tconnercloudandqa.medium.com/what-ai-does-in-my-qa-automation-workflow-dada62a7bbbd)]
