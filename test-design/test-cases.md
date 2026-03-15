@@ -5,3 +5,4 @@
 - [ ] On getting started with mutation testing [[[Link](https://www.ontestautomation.com/on-getting-started-with-mutation-testing/)]
 - [ ] The Fallacy of Example-Based Testing [[Link](https://medium.com/@eamonn.faherty_58176/the-fallacy-of-example-based-testing-d03f303105a2)]
 - [ ] Stop Chasing 100% Coverage: A Pragmatic Frontend Testing Pyramid [[Link](https://medium.com/@deep.naik/stop-chasing-100-coverage-a-pragmatic-frontend-testing-pyramid-60520cd9a00e)]
+- [ ] AAAAA Testing: How to make tests AI-friendly [[Link](https://medium.com/bolt-labs/aaaaa-testing-96583245ae24)]
