@@ -18,6 +18,10 @@
 - [ ] The New QA Mindset: Testing AI and LLMs [[Link](https://qalogy.com/the-new-qa-mindset-testing-ai-and-llms)]
 - [ ] AI Is Quietly Rewriting the Career Map for QA Engineers [[Link](https://ryancraventech.substack.com/p/ai-is-quietly-rewriting-the-career)]
 - [ ] Everyone is NOT Responsible for Quality [[Link](https://www.satisfice.com/blog/archives/487632)]
+- [ ] Quality Debt: The Hidden Cost That Outgrows Technical Debt [[Link](https://testuff.com/quality-debt-the-hidden-cost-that-outgrows-technical-debt/)]
+- [ ] Building an Agentic Engineering Org [[Link](https://angiejones.tech/tools-arent-enough-scaling-ai-adoption-for-engineering-teams/)]
+- [ ] “The Magnificent Seven” for Code Quality [[Link](https://medium.com/globant/the-magnificent-seven-for-code-quality-d3b777a7eb1c)]
+- [ ] AI Won’t Fix Your Testing Strategy [[Link](https://medium.com/@njduggan/ai-wont-fix-your-testing-strategy-6f3db37d1565)]
 
 ## Read
 - [x] I stopped writing E2E tests manually. I manage an AI agent instead [[Link](https://engineering.instawork.com/i-stopped-writing-e2e-tests-manually-i-manage-an-ai-agent-instead-e6acb44019e2)]
